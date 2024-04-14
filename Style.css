@@ -30,6 +30,7 @@ padding-left: 40px;
 }
 section{
     height: 500px;
+    padding-bottom: 150px;
 }
 .link-button{
     text-decoration: none;
@@ -38,6 +39,9 @@ section{
     color: white;
     border-radius: 5px;
     font-weight: 600;
-
-
+}
+.dream-area{
+    background-image: url("imeges/dream-bg.png");
+   background-repeat: no-repeat;
+   background-position: right;
 }
